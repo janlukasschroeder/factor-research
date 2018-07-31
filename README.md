@@ -1,0 +1,2 @@
+# Research Results
+Platform: Quantopian
